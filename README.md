@@ -8,7 +8,18 @@ Calculated for two-body orbital dynamics and built in Python
 
 ## Overview
 
-This project simulates the orbits of Earth and Venus under mutual gravitational attraction with to different numerical integration methods. This project will compare
+This project simulates the orbits of Earth and Venus under mutual gravitational attraction with two different numerical integration methods. This project will compare
 their accuracies and stabilities over time, demonstrating why higher-order methods are preffered for problems with long-term energy conservation and orbital stability.
 
 ## Contents
+
+> Newtonian Two-Body Gravitation Force Calculation
+
+> Euler Method for Integration (1st Order)
+
+> Runge-Kutta Fourth Order (RK4) Integration
+
+> Trajectory visualisation and animation of both planets' trajectories
+
+> Comparison of energy conservation and orbital stability between the two methods
+
