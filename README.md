@@ -31,3 +31,5 @@ their accuracies and stabilities over time, demonstrating why higher-order metho
 
 ## Files
 
+orbitalsimulation.ipynb, full Jupyter notebook
+
