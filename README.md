@@ -8,8 +8,8 @@ Calculated for two-body orbital dynamics and built in Python
 
 ## Overview
 
-This project simulates the orbits of Earth and Venus under mutual gravitational attraction with two different numerical integration methods. This project will compare
-their accuracies and stabilities over time, demonstrating why higher-order methods are preffered for problems with long-term energy conservation and orbital stability.
+This project simulates the orbits of Earth and Venus under mutual gravitational attraction with two different numerical integration methods. This project compares
+their accuracies and stabilities over time, demonstrating why higher-order methods are preferred for problems with long-term energy conservation and orbital stability.
 
 ## Contents
 
