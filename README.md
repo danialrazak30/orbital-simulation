@@ -13,13 +13,21 @@ their accuracies and stabilities over time, demonstrating why higher-order metho
 
 ## Contents
 
-> Newtonian Two-Body Gravitation Force Calculation
+> 1. Newtonian Two-Body Gravitation Force Calculation
 
-> Euler Method for Integration (1st Order)
+> 2. Euler Method for Integration (1st Order)
 
-> Runge-Kutta Fourth Order (RK4) Integration
+> 3. Runge-Kutta Fourth Order (RK4) Integration
 
-> Trajectory visualisation and animation of both planets' trajectories
+> 4. Trajectory visualisation and animation of both planets' trajectories
 
-> Comparison of energy conservation and orbital stability between the two methods
+> 5. Comparison of energy conservation and orbital stability between the two methods
+
+## Tools Used
+
+> 1. numpy for numerical computation
+
+> 2. matplotlib for plots and animation
+
+## Files
 
